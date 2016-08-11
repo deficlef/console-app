@@ -1,0 +1,9 @@
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.csprojResolveAssemblyReference.cache
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.dll
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\ConsoleApplicationTest.pdb
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\ConsoleApplication.exe
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\MySql.Data.dll
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\bin\Debug\ConsoleApplication.pdb
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.dll
+C:\Users\def\Documents\Visual Studio 2015\Projects\ConsoleApplication\ConsoleApplicationTest\obj\Debug\ConsoleApplicationTest.pdb
